@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\OpenRouter.SDK\OpenRouter.SDK.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>OpenRouter.Examples.EnvConfig</AssemblyName>
+    <RootNamespace>OpenRouter.Examples.EnvConfig</RootNamespace>
+  </PropertyGroup>
+
+</Project>
