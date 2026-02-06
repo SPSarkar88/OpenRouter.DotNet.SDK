@@ -18,6 +18,8 @@
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <RepositoryType>git</RepositoryType>
 	<PackageReadmeFile>README.md</PackageReadmeFile>
+	<PackageReleaseNotes>RELEASE_NOTES.md</PackageReleaseNotes>
+	<RepositoryUrl>https://github.com/SPSarkar88/OpenRouter.DotNet.SDK</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
@@ -28,6 +30,7 @@
     <PackageReference Include="RestSharp" Version="113.1.0" />
     <PackageReference Include="System.Text.Json" Version="10.0.2" />
 	<None Include="README.md" Pack="true" PackagePath="\"/>
+	<None Include="RELEASE_NOTES.md" Pack="true" PackagePath="\"/>
   </ItemGroup>
 
 </Project>
