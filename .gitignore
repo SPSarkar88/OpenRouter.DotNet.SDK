@@ -401,3 +401,8 @@ FodyWeavers.xsd
 *.sln.iml
 .env
 Example09.ZDREndpoints
+Examples/Example27.ConcurrentStreams/README.md
+Examples/ApiTestProject/README.md
+Examples/Example25.HttpHooks/README.md
+Examples/Example26.StopConditions/README.md
+Examples/OpenRouter.Examples.EnvConfig/DI-EXAMPLE.md
